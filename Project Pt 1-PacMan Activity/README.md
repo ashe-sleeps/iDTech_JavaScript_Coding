@@ -1,1 +1,2 @@
 # Project Pt 1 - PacMan Activity
+In this activity I utilized multiple aspects of JavaScript to create a PacMan that moves back and forth across the page and turns around when it hits the bounds of the page.
